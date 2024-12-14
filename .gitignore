@@ -1,0 +1,51 @@
+# Logs
+logs/
+*.log
+*.sql.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python-specific ignores (if using Python scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+venv/
+ENV/
+env/
+.venv/
+.python-version
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor-specific ignores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Database dumps and configurations
+*.sql
+dumps/
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependency files
+target/
+node_modules/
+
+# Other specific files
+*.tar.gz
+*.zip
+*.rar
