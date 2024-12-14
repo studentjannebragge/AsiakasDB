@@ -1,5 +1,2 @@
-# Kirjasto satunnaisen datan generointiin
 Faker
-
-# Lisäkirjastot (valinnaiset)
-pandas  # Tietojen analysointiin ja Power BI -integraatioon (tarvittaessa)
+pandas 
